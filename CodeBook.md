@@ -11,14 +11,14 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 ===================
 To produce the Clean data set, the following files were loaded from the zip file
 
--"UCI HAR Dataset/features.txt"            ==> The Text Labels for the 561 Observations
--"UCI HAR Dataset/activity_labels.txt"     ==> The Text Labels for the 6 Activities
--"UCI HAR Dataset/test/X_test.txt"         ==> The Observation Data
--"UCI HAR Dataset/test/subject_test.txt"   ==> The Subject being measures from 1-30 
--"UCI HAR Dataset/test/y_test.txt"         ==> The Activity being performed from 1-6
--"UCI HAR Dataset/train/X_train.txt"       ==> The Observation Data
--"UCI HAR Dataset/train/subject_train.txt" ==> The Subject being measures from 1-30 
--"UCI HAR Dataset/train/y_train.txt"       ==> The Activity being performed from 1-6
+- "UCI HAR Dataset/features.txt"            ==> The Text Labels for the 561 Observations
+- "UCI HAR Dataset/activity_labels.txt"     ==> The Text Labels for the 6 Activities
+- "UCI HAR Dataset/test/X_test.txt"         ==> The Observation Data
+- "UCI HAR Dataset/test/subject_test.txt"   ==> The Subject being measures from 1-30 
+- "UCI HAR Dataset/test/y_test.txt"         ==> The Activity being performed from 1-6
+- "UCI HAR Dataset/train/X_train.txt"       ==> The Observation Data
+- "UCI HAR Dataset/train/subject_train.txt" ==> The Subject being measures from 1-30 
+- "UCI HAR Dataset/train/y_train.txt"       ==> The Activity being performed from 1-6
 
 The Test and Train data is concatentated together one after the other.  Only columns that contain Mean or Standard Deviation metrics were maintained  the Subject and Activity data was prefixed to each row as part of the first dataset.
 
