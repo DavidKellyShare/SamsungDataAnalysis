@@ -9,20 +9,12 @@ Description:
 This repository contains code to create a cleansed version of the Human Activity Recognition Using Smartphones Dataset Version 1.0.  
 
 This data set was originally provided by
-<<<<<<< HEAD
-=======
-  ===================
->>>>>>> 9d196d91be4f28f30096ca07e768a80c31160dae
   Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
   Smartlab - Non Linear Complex Systems Laboratory
   DITEN - Università degli Studi di Genova.
   Via Opera Pia 11A, I-16145, Genoa, Italy.
   activityrecognition@smartlab.ws
   www.smartlab.ws
-<<<<<<< HEAD
-=======
-  ===================
->>>>>>> 9d196d91be4f28f30096ca07e768a80c31160dae
 and can be found at the link:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
