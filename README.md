@@ -34,5 +34,6 @@ CodeBook.md: This file contains a description of how the data was loaded, transf
 run_analysis.R: This program reads portions of the original data set and produces CSV files that contain the output described in  CodeBook.md
 
 Clean UCI HAR Dataset.csv: This file contains the first "tidy" data set
+
 Average UCI HAR Dataset by Subject by Activity.csv: This file contains the average(mean) of the first data set grouped by Test Subject and Subjects activity.
 
